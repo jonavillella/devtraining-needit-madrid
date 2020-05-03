@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_column">
+    <sc_ic_column action="DELETE">
+        <index>1</index>
+        <name>Right column</name>
+        <sc_ic_section display_value="Section 1">791de037db101010babc2bfa4b9619f5</sc_ic_section>
+        <sys_class_name>sc_ic_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 12:19:32</sys_created_on>
+        <sys_id>391d6c37db101010babc2bfa4b9619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Right column</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_ic_column_391d6c37db101010babc2bfa4b9619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 12:19:32</sys_updated_on>
+    </sc_ic_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Madrid">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>19c38ff8dbafd7c40e785d00cf9619e3</instance_id>
+        <instance_name>dev66937</instance_name>
+        <name>sc_ic_column_391d6c37db101010babc2bfa4b9619da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_column"><sc_ic_column action="INSERT_OR_UPDATE"><index>1</index><name>Right column</name><sc_ic_section display_value="Section 1">791de037db101010babc2bfa4b9619f5</sc_ic_section><sys_class_name>sc_ic_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 12:19:32</sys_created_on><sys_id>391d6c37db101010babc2bfa4b9619da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Right column</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sc_ic_column_391d6c37db101010babc2bfa4b9619da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 12:19:32</sys_updated_on></sc_ic_column></record_update>]]></payload>
+        <payload_hash>1117207240</payload_hash>
+        <record_name>Right column</record_name>
+        <reverted_from/>
+        <source>d5a01a07dbfc4010babc2bfa4b961922</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 12:19:32</sys_created_on>
+        <sys_id>7d1d6c37db101010babc2bfa4b9619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171bb9405da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 12:19:32</sys_updated_on>
+        <type>Column</type>
+        <update_guid>b51d6c3734101010461e7b13c23050db</update_guid>
+        <update_guid_history>b51d6c3734101010461e7b13c23050db:1117207240</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Right column">9d44b07bdb101010babc2bfa4b961917</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 12:50:54</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_column">sc_ic_column</sys_db_object>
+        <sys_id>3501be52d26d4b289c50c2a2891b7440</sys_id>
+        <sys_metadata>391d6c37db101010babc2bfa4b9619da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Right column</sys_name>
+        <sys_package display_value="NeedIt Madrid" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Madrid">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_ic_column_391d6c37db101010babc2bfa4b9619da</sys_update_name>
+        <sys_update_version display_value="sc_ic_column_391d6c37db101010babc2bfa4b9619da">7d1d6c37db101010babc2bfa4b9619db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 12:50:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_aprvl_defn_staging">
+    <sc_ic_aprvl_defn_staging action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <detail>Network</detail>
+        <group display_value="Network" name="Network">287ebd7da9fe198100f92cc8d1d2154e</group>
+        <order>100</order>
+        <sc_ic_aprvl_type_defn_staging/>
+        <sc_ic_item_staging/>
+        <sys_class_name>sc_ic_aprvl_defn_staging</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 12:41:52</sys_created_on>
+        <sys_id>0b02b8f7db101010babc2bfa4b96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>group</sys_name>
+        <sys_package display_value="NeedIt Madrid" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Madrid">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_ic_aprvl_defn_staging_0b02b8f7db101010babc2bfa4b96199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 12:41:52</sys_updated_on>
+        <type>group</type>
+        <user/>
+    </sc_ic_aprvl_defn_staging>
+</record_update>

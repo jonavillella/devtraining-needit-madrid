@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_item_staging">
+    <sc_ic_item_staging action="DELETE">
+        <active>true</active>
+        <aprvl_defn_changed>true</aprvl_defn_changed>
+        <availability>on_both</availability>
+        <cost>0</cost>
+        <counter>0</counter>
+        <description><![CDATA[<p>Firewall Provisioning with Tufin Integration</p>]]></description>
+        <desktop_image/>
+        <entitlements>{'cmn_department':[],'cmn_location':[],'sys_user_group':[]}</entitlements>
+        <fulfillment_group/>
+        <fulfillment_user/>
+        <item_type>sc_cat_item</item_type>
+        <layout_changed>true</layout_changed>
+        <mobile_image/>
+        <name>Copy of Firewall Provisioning</name>
+        <recurring_cost>0</recurring_cost>
+        <recurring_frequency/>
+        <sc_cat_item/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_categories>abbcbbbf47700200e90d87e8dee49041</sc_categories>
+        <short_description>Firewall Provisioning</short_description>
+        <state>draft</state>
+        <submission_message/>
+        <sys_class_name>sc_ic_item_staging</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 12:43:33</sys_created_on>
+        <sys_id>6592fcf7db101010babc2bfa4b9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Firewall Provisioning</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_ic_item_staging_6592fcf7db101010babc2bfa4b9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 12:43:33</sys_updated_on>
+        <table_name/>
+        <task_defn_changed>true</task_defn_changed>
+        <var_defn_changed>false</var_defn_changed>
+        <var_meta_changed>false</var_meta_changed>
+        <version>4.0</version>
+        <workflow/>
+    </sc_ic_item_staging>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt Madrid">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>19c38ff8dbafd7c40e785d00cf9619e3</instance_id>
+        <instance_name>dev66937</instance_name>
+        <name>sc_ic_item_staging_6592fcf7db101010babc2bfa4b9619fe</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_ic_item_staging"&gt;&lt;sc_ic_item_staging action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;aprvl_defn_changed&gt;true&lt;/aprvl_defn_changed&gt;&lt;availability&gt;on_both&lt;/availability&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;counter&gt;0&lt;/counter&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;Firewall Provisioning with Tufin Integration&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;desktop_image/&gt;&lt;entitlements&gt;{'cmn_department':[],'cmn_location':[],'sys_user_group':[]}&lt;/entitlements&gt;&lt;fulfillment_group/&gt;&lt;fulfillment_user/&gt;&lt;item_type&gt;sc_cat_item&lt;/item_type&gt;&lt;layout_changed&gt;true&lt;/layout_changed&gt;&lt;mobile_image/&gt;&lt;name&gt;Copy of Firewall Provisioning&lt;/name&gt;&lt;recurring_cost&gt;0&lt;/recurring_cost&gt;&lt;recurring_frequency/&gt;&lt;sc_cat_item/&gt;&lt;sc_catalogs&gt;e0d08b13c3330100c8b837659bba8fb4&lt;/sc_catalogs&gt;&lt;sc_categories&gt;abbcbbbf47700200e90d87e8dee49041&lt;/sc_categories&gt;&lt;short_description&gt;Firewall Provisioning&lt;/short_description&gt;&lt;state&gt;draft&lt;/state&gt;&lt;submission_message/&gt;&lt;sys_class_name&gt;sc_ic_item_staging&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-27 12:43:33&lt;/sys_created_on&gt;&lt;sys_id&gt;6592fcf7db101010babc2bfa4b9619fe&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Copy of Firewall Provisioning&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_ic_item_staging_6592fcf7db101010babc2bfa4b9619fe&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-27 12:43:33&lt;/sys_updated_on&gt;&lt;table_name/&gt;&lt;task_defn_changed&gt;true&lt;/task_defn_changed&gt;&lt;var_defn_changed&gt;false&lt;/var_defn_changed&gt;&lt;var_meta_changed&gt;false&lt;/var_meta_changed&gt;&lt;version&gt;4.0&lt;/version&gt;&lt;workflow/&gt;&lt;/sc_ic_item_staging&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>639972687</payload_hash>
+        <record_name>Copy of Firewall Provisioning</record_name>
+        <reverted_from/>
+        <source>0996e222db001010babc2bfa4b961976</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-04-11 13:42:13</sys_created_on>
+        <sys_id>2b44b07bdb101010babc2bfa4b96194d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1716979f7080000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Item</type>
+        <update_guid>e744b07ba81010103386ef0f8771524d</update_guid>
+        <update_guid_history>e744b07ba81010103386ef0f8771524d:639972687</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of Firewall Provisioning">eb44b07bdb101010babc2bfa4b96194f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 12:51:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_ic_item_staging">sc_ic_item_staging</sys_db_object>
+        <sys_id>0ba0dc561eaf49ac8bc984cd19cb08a9</sys_id>
+        <sys_metadata>6592fcf7db101010babc2bfa4b9619fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Firewall Provisioning</sys_name>
+        <sys_package display_value="NeedIt Madrid" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Madrid">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sc_ic_item_staging_6592fcf7db101010babc2bfa4b9619fe</sys_update_name>
+        <sys_update_version display_value="sc_ic_item_staging_6592fcf7db101010babc2bfa4b9619fe">2b44b07bdb101010babc2bfa4b96194d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 12:51:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
